@@ -1,0 +1,114 @@
+
+Attachment Aaru bhayta Aishwaryam Script.pdf added.Conversation opened. 1 unread message.
+
+Skip to content
+Using Gmail with screen readers
+Enable desktop notifications for Gmail.
+   OK  No, thanks
+1 of 3,572
+Fwd: C++ main
+Inbox
+
+Rajasri sri
+Attachments
+02:29 (0 minutes ago)
+to me
+
+
+---------- Forwarded message ---------
+From: Rajasri sri <bossrajasri@gmail.com>
+Date: Tue, Oct 31, 2017, 4:36 PM
+Subject: C++ main
+To: rajasri boss <Bossrajasri@gmail.com>
+
+
+
+
+ 4 attachments
+  • Scanned by Gmail
+#include<iostream.h>
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+char fn[40];
+char ln[42];
+char em[40];
+int mt;
+int sign;
+int gen;
+int pass;
+int repass;
+int app;
+char user;
+int signpas;
+int a=123;
+int b=234;
+cout<<"+*+*+*+*+*+*+*+*+*+*+*+*+*+* WELCOME TO VIVA *+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*"<<endl;
+cout<<endl;
+cout<<"  Select an Option"<<endl;
+cout<<"               1. Sign up                     2. Sign in"<<endl;
+cin>>sign;
+switch(sign)
+{ case 1:
+cout<<"                                   Sign up"<<endl;
+cout<<"Enter your First Name :"<<endl;
+cin>>fn;
+cout<<"Enter your Last Name:"<<endl;
+cin>>ln;
+cout<<"Select your Gender :"<<endl;
+cout<<"1. Male           2. Female"<<endl;
+cin>>gen;
+cout<<"Enter your Email ID:"<<endl;
+cin>>em;
+cout<<"Your Username is   "<<em<<"@gmail.com"<<endl;
+cout<<"Enter a Password, Make sure your password is 10 digit numbers :"<<endl;
+cin>>pass;
+cout<<"Re-Enter your Password"<<endl;
+cin>>repass;
+
+if(pass==repass)
+{
+cout<<"*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+"<<endl;
+cout<<"                                 GET STARTED"<<endl;
+cout<<" Welcome !!!   ";
+	if(gen==1)
+      {	cout<<"Hello Mr."<<fn<<endl;
+	cout<<endl;
+	cout<<"                              Select a App"<<endl;
+	cout<<"       1. Bank Account                              2. Virtual Caluculator"<<endl;
+	cout<<"       3. Multiplication Tables                     4. Coming soon  "<<endl;
+	cin>>app;
+	switch (app)
+       {	case 1:cout<<"bank"; break;
+		case 2:cout<<"Under construction"; break;
+		case 3:cout<<"Enter Number you want as a multiplication table : ";
+			cin>>mt;
+			for(int i=1;i<=10;i++)
+			{
+			cout<<mt<<"*"<<i<<"= "<<mt*i<<endl;
+			}; break;
+		case 4:cout<<""; break;  }
+	 }
+	else
+      { cout<<"Hello Miss."<<fn<<endl;
+
+      }
+}
+else
+{
+cout<<"Passwords didn't match....TRY AGAIN";
+
+case 2:
+ cout<<"Enter Your Username :-"<<endl; break;}
+ cin>>user;
+ cout<<"Enter Your Password";
+ cin>>signpas;
+ for(signpas=0;signpas<4;signpas++)
+ { if (signpas==a==b)
+}
+getch();
+}
+FB.CPP
+Displaying FB.CPP.
